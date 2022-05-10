@@ -76,6 +76,10 @@ a:hover {
     border-radius: 50px;
     border: 2px solid var(--secoundry-color);
 }
+.line-button:hover {
+    background-color: var(--secoundry-color);
+    color: var(--primory-color);
+}
 
 h2 {
     font-size: 43px;
